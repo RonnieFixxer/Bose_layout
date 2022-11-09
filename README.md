@@ -1,4 +1,7 @@
 # Bose landing page
+Stack: HTML5, SASS (SCSS), JavaScript
+Methodology: BEM
+Fully responsive layout was made by using FlexBox
 
 - [DEMO LINK](https://svyatoslavyatsenko.github.io/Bose_layout/)
 
