@@ -3,6 +3,7 @@
 - Methodology: BEM
 - Fully responsive layout was made by using FlexBox
 
+Click the link to see:
 - [DEMO LINK](https://svyatoslavyatsenko.github.io/Bose_layout/)
 
 The designs from:
